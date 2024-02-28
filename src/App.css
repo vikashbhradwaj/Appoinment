@@ -1,0 +1,20 @@
+
+/* .bg-blue {
+  background-color: gray; 
+  padding: 2px;
+  width:fit-content;
+
+} */
+
+tr:first-child th:first-child {
+  border-top-left-radius: 10px;
+}
+
+tr:first-child th:last-child {
+  border-top-right-radius: 10px;
+}
+
+.bg-shadow{
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+/*  */
